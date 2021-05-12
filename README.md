@@ -1,6 +1,6 @@
 # Prediction of the pathogenicity of RNU4ATAC GenomAD variants
 
-These scripts allow to reproduce the analysis on RNU4ATAC variants from paper: Benoit-Pilven et al, In revision
+These scripts allow to reproduce the analysis on RNU4ATAC variants from paper: [Benoit-Pilven et al, (2020)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235655).
 
 
 ## Prerequisites
